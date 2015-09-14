@@ -1,7 +1,7 @@
 Objectness_Detection
 ====================
 
-#### A general object detection framework
+#### A generic object detection framework
 
 1. Objectness for potential bounding boxes
 2. PCANet for feature extraction
